@@ -1,0 +1,2 @@
+git pull other master for syncing
+git push other master for uploading
